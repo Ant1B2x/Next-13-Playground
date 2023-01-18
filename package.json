@@ -1,6 +1,7 @@
 {
-  "name": "next-13",
+  "name": "next-13-playground",
   "version": "0.1.0",
+  "author": "Ant1B2x",
   "private": true,
   "scripts": {
     "dev": "next dev",
