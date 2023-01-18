@@ -4,7 +4,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
       <head>
-        <title>Next.js</title>
+        <title>Next.js 13 Playground</title>
       </head>
       <body>
         <div className={styles.header}>From layout</div>

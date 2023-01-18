@@ -4,7 +4,7 @@ export default function Page() {
   return (
     <>
       <h1>Second route!</h1>
-      <Link href="/breaking">navigate to breaking</Link>
+      <Link href="/client">navigate to third route</Link>
     </>
   );
 }
